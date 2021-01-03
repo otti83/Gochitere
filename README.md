@@ -3,7 +3,7 @@
 mac環境におけるmirakurunのクライアントをソフトを目指し作成しました。  
 最近windowsから乗り換えたのでTVTestの代わりが欲しくて…。  
 まだまだ機能面は足りず映像の再生とスクショくらいです。  
-<img src="https://github.com/otti83/Gochitere/blob/main/ss1.png" height="200" width="2００">
+<img src="https://github.com/otti83/Gochitere/blob/main/ss1.png" height="200">  
 
 ### 使い方
 1) [リリース](https://github.com/otti83/Gochitere/releases) からダウンロードし起動してください。
